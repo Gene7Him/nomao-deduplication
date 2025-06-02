@@ -17,7 +17,7 @@ This project aims to predict whether two records refer to the same place using t
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/nomao-deduplication.git
+   git clone https://github.com/Gene7Him/nomao-deduplication.git
    cd nomao-deduplication
    ```
 
